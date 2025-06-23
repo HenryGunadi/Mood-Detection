@@ -7,6 +7,10 @@ It uses:
 - 🎛️ **Streamlit** for a clean and interactive web UI
 
 ---
+## App Preview
+![Screenshot](images/mood_detection_preview.jpg)
+
+---
 
 ## 🧠 Supported Moods
 
