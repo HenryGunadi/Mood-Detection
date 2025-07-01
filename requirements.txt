@@ -4,3 +4,7 @@ torchvision
 pillow
 scikit-learn
 joblib
+matplotlib
+tqdm
+pandas
+numpy
